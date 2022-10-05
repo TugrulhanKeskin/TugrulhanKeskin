@@ -1,5 +1,6 @@
-![PicsArt_09-17-08 10 48](https://user-images.githubusercontent.com/75422204/194163867-cac39355-9039-4ed1-9811-a5f7a177978e.jpg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75422204/194165876-4dca9e43-19ca-4863-b775-f41630e2bc33.gif" />
+</p>
 
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Tuğrulhan</h1>
 
