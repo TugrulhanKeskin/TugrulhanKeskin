@@ -1,12 +1,12 @@
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Tuğrulhan</h1>
 
-<p align="center"> 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Computer+Engineer+Candidate;Jr.+Machine+Learning+Engineer;Passionate+about+Data+and+AI+)
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Computer+Engineer;Jr.+Machine+Learning+Engineer;Passionate+about+Data+and+AI+" alt="Typing SVG" /></a>
 
 ---
 
-## < Languages and Tools  >
+<h2 align="center">Languages and Tools</h2> 
 
 <p align="center"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -23,8 +23,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a>  
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/> </a> 
- <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://cledara-public.s3.eu-west-2.amazonaws.com/heroku.png" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="32" height="32"/> </a> 
+ <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/heroku.png" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/bash.png" alt="bash" width="40" height="40"/> </a> 
@@ -42,9 +42,9 @@
 ---
 <br/>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TugrulhanKeskin&theme=github-dark&hide_border=true&border_radius=5.1&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TugrulhanKeskin&theme=github-dark&hide_border=true&border_radius=5.1&date_format=j%2Fn%5B%2FY%5D" />
+</p>
 
 <br/>
 
