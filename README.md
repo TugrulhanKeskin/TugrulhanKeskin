@@ -50,12 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=TugrulhanKeskin&theme=github-dark&hide_border=true&border_radius=5.1&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
-<br/>
-
-<a href="https://github.com/TugrulhanKeskin/github-readme-activity-graph"><img alt="Tuğrulhan Keskin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TugrulhanKeskin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
-<br/>
 
 
 <p align="center">
